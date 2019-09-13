@@ -11,7 +11,7 @@ public class ArmStrongNumber
 		int temp;
 		
 		temp = num;
-		
+		//new changes
 		while(num>0)
 		{
 			rem = num % 10;
