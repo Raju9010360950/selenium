@@ -6,6 +6,7 @@ public class CountNumberOfVowels
 {
 	public static void main(String[] args) 
 	{
+		//printing the program
 		System.out.println("Enter the Input String ::: ");
 		Scanner sc = new Scanner(System.in);
 		String string = sc.nextLine();
