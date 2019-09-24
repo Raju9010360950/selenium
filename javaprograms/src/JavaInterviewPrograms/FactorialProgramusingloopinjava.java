@@ -12,7 +12,7 @@ public class FactorialProgramusingloopinjava {
         number = scanner.nextInt();
         
         
-        //scaneer
+        //scaneer changed
         scanner.close();
         
 		int i,fact=1;  
