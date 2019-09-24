@@ -39,7 +39,7 @@ public class StringManipulation_1
 		//SubString
 		System.out.println(str1.substring(0, 8)); //To Print required letters using Starting and Ending Index 
 		
-		//Trim
+		//Trimmmmmmmm
 		String s1 = "    Selenium Best    ";
 		System.out.println(s1.trim()); //It will trim only Starting and Ending Spaces
 		
